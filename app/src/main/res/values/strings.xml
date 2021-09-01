@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">MyFirstAndroidApp</string>
+    <string name="main_name_Question">Enter your name</string>
+    <string name="main_age_Question">Enter your age</string>
+    <string name="main_get_Lucky">Get your lucky number!!!</string>
+    <string name="main_result">Result</string>
+    <string name="main_lucky_button">Lucky number</string>
+
+</resources>
