@@ -27,7 +27,7 @@ class MainActivity : AppCompatActivity() {
             }
             Toast.makeText(this, "Good luck!!!", Toast.LENGTH_SHORT).show()
             val numeroAux : Int = edadInput.text.toString().toInt()
-            if(numeroAux > 0 && numeroAux < 9 ){
+            if(numeroAux > 0 && numeroAux < 10 ){
                numeroSuerte =  numeroAux * 7
                 suma = 0
                 while(numeroSuerte > 0) {
